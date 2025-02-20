@@ -1,6 +1,7 @@
 html {
     color: green;
     font-family: Inter;
+    scroll-behavior: smooth;
 }
 
 *::selection {
